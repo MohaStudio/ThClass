@@ -1,1 +1,1 @@
-# ThClass
+# ThClass - by Moha.Studio
